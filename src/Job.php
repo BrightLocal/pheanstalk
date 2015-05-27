@@ -9,7 +9,7 @@ namespace Pheanstalk;
  * @package Pheanstalk
  * @licence http://www.opensource.org/licenses/mit-license.php
  */
-class Job
+class Job implements JobInterface
 {
     const STATUS_READY = 'ready';
     const STATUS_RESERVED = 'reserved';
