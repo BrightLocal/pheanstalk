@@ -1,5 +1,5 @@
 {
-    "name": "pda/pheanstalk",
+    "name": "brightlocal/pheanstalk",
     "type": "library",
     "description": "PHP client for beanstalkd queue",
     "keywords": ["beanstalkd"],
